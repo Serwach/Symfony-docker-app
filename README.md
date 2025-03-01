@@ -1,4 +1,4 @@
 ```
 1. composer install
-2. dokcer-compose up -d
+2. docker-compose up -d
 ```
